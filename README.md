@@ -1,2 +1,2 @@
-# Year9design_RahulChib
-Stor my python work in my year 9 design code
+# year9design_RC
+Store my python work in my year 9 design code
